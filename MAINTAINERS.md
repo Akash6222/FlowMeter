@@ -15,3 +15,5 @@ Any contributor that shows effort, consistentcy and willingness in maintaining a
 Open Source is all about the trust, which is the key factor in decision to add write permissions.
 
 Reach us if you have any questions on how to join maintainer team.
+
+Akash Dubey
